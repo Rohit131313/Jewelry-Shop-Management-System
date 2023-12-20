@@ -107,7 +107,7 @@ Contains HBS files for each webpage, defining the dynamic content and structure.
 3. Install dependencies: `npm install`
 4. Set up MongoDB and update database configuration in `src/db/conn.js`.
 5. Run the application: `npm start`
-6. Access the application at [http://localhost:3000](http://localhost:4200) in your web browser.
+6. Access the application at [http://localhost:4200](http://localhost:4200) in your web browser.
 
 ## **Support and Issues**
 
