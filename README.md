@@ -109,8 +109,3 @@ Contains HBS files for each webpage, defining the dynamic content and structure.
 5. Run the application: `npm start`
 6. Access the application at [http://localhost:4200](http://localhost:4200) in your web browser.
 
-## **Support and Issues**
-
-If you encounter any issues or have questions, please feel free to raise them on the GitHub Issues page.
-
-Thank you for using the Jewelry Shop Management System! We hope it enhances your jewelry store management experience.
